@@ -10,7 +10,7 @@
   "author": "Sophie",
   "license": "MIT",
   "dependencies": {
-    "axios": "^1.18.0",
+    "axios": "^1.20.0",
     "express": "^5.2.1",
     "express-favicon": "^2.0.1",
     "liquidjs": "^10.27.2",
